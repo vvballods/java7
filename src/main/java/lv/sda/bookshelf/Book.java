@@ -1,3 +1,5 @@
+package lv.sda.bookshelf;
+
 public class Book {
     private String isbn;
     private String title;
